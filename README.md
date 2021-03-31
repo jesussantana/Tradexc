@@ -4,7 +4,7 @@ Ironhack project at end of module 2 of Barcelona Full Stack Web Development Part
 
 # Developers:
 
-- [Chus Santana](https://github.com/chusantana/)
+- [Chus Santana](https://github.com/jesussantana/)
 - [Marc De Mena](https://github.com/mdemena/)
 
 # Link to App:
